@@ -1,0 +1,17 @@
+# local package
+-e .
+
+# Some useful, but optional packages, mostly for formatting
+pipreqs
+black
+isort
+# pylint
+
+# Data science packages
+# numpy
+# matplotlib
+# scikit-learn
+# scipy
+
+# Testing
+# pytest
